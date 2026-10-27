@@ -22,7 +22,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 ---
 
 ### Churn Risk Analysis  
-<img src="churn_analysis.png" width="700" alt="Dashboard Snapshots" />
+<img src="Power%20BI/churn_analysis.png" width="700" alt="Churn Risk Analysis" />
 
 - Identified high-risk user segments with low play sessions and short session durations.  
 - Highlighted referral sources and device types contributing uniformly to churn, signaling product-side improvement needs over acquisition channel fixes.
