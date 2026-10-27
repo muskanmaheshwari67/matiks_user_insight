@@ -13,7 +13,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 ## 📊 Dashboard Snapshots  
 
 ### Revenue Segmentation  
-<img src="./assets/Screenshot 2026-10-27 161029.png" width="700" />
+<img src="revenue_segmentation.png" width="700" alt="Dashboard Snapshots" />
 
 - Showcased revenue patterns by country, subscription tier, and game mode.  
 - Revealed that Co-op game mode generated the highest average revenue per session at mid-level play counts (~15-20 sessions).  
@@ -22,7 +22,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 ---
 
 ### Churn Risk Analysis  
-<img src="Screenshot 2026-10-27 161029.png" width="700" alt="Dashboard Snapshots" />
+<img src="churn_analysis.png" width="700" alt="Dashboard Snapshots" />
 
 - Identified high-risk user segments with low play sessions and short session durations.  
 - Highlighted referral sources and device types contributing uniformly to churn, signaling product-side improvement needs over acquisition channel fixes.
