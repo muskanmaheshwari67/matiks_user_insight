@@ -22,7 +22,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 ---
 
 ### Churn Risk Analysis  
-<img src="Screenshot 2026-10-27 161059.png" alt="Page 2 - Loan Analysis" width="700"/>
+<img src="Screenshot%202026-10-27%20161029.png" width="700" alt="Dashboard Snapshots" />
 
 - Identified high-risk user segments with low play sessions and short session durations.  
 - Highlighted referral sources and device types contributing uniformly to churn, signaling product-side improvement needs over acquisition channel fixes.
