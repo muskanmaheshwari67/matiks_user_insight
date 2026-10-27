@@ -13,7 +13,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 ## 📊 Dashboard Snapshots  
 
 ### Revenue Segmentation  
-![Revenue Segmentation Dashboard](images/revenue-segmentation.png)
+![Power BI/Screenshot 2026-10-27 161029.png)
 
 - Showcased revenue patterns by country, subscription tier, and game mode.  
 - Revealed that Co-op game mode generated the highest average revenue per session at mid-level play counts (~15-20 sessions).  
@@ -22,7 +22,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 ---
 
 ### Churn Risk Analysis  
-![Churn Risk Dashboard](images/churn.png)
+![Power BI/Screenshot 2026-10-27 161059.png)
 
 - Identified high-risk user segments with low play sessions and short session durations.  
 - Highlighted referral sources and device types contributing uniformly to churn, signaling product-side improvement needs over acquisition channel fixes.
