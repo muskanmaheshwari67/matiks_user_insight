@@ -13,7 +13,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 ## 📊 Dashboard Snapshots  
 
 ### Revenue Segmentation  
-<img src="Screenshot 2026-10-27 161029.png" alt="Page 2 - Loan Analysis" width="700"/>
+<img src="./assets/Screenshot 2026-10-27 161029.png" width="700" />
 
 - Showcased revenue patterns by country, subscription tier, and game mode.  
 - Revealed that Co-op game mode generated the highest average revenue per session at mid-level play counts (~15-20 sessions).  
